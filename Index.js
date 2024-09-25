@@ -3,7 +3,7 @@ const fs = require('fs');
 const program = new Command();
 
 program
-  .name('string-util')
+  .name('Index')
   .description('CLI to some JavaScript string utilities')
   .version('0.8.0');
 

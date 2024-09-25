@@ -1,4 +1,6 @@
 # Words
+
+
 This repo gives you the basic idea of how to use command line terminal functionalities apart from usual installing libraries and packages
 In this repo we perform a simple operation of coding in node js where we can find the number of words in a file by using the terminal
 To run this repo

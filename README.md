@@ -8,7 +8,7 @@ Clone this repo
 
 Write  'npm i' in terminal . It wil install all the dependencies.
 
-Now just enter 'node Index.js count a.txt'
+Now just enter    'node Index.js count a.txt'
 
  You can use your own text file .just enter the location of the file instead of a.txt and the location should be from the folder in which the Index.js file is present
  suppose your text file is present in a parent folder containing Index.js and suppose its name is ab.txt then use file location as ../ab.txt and similar locations for your files.
